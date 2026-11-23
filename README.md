@@ -1,5 +1,7 @@
 # Min/Max Filter, Sobel Edge ও RGB Histogram — ডকুমেন্টেশন
-# [Website:](https://mohammad-samiul-alam.github.io/Image-Processing-All-Operations/Documentation.html)
+<a href="https://mohammad-samiul-alam.github.io/Image-Processing-All-Operations/Documentation.html" target="_blank">
+    Click here
+</a>
 
 > প্রতিটি অংশে প্রথমে বাংলা, তারপর **EN:** দিয়ে English দেওয়া আছে।
 
